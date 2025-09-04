@@ -1,16 +1,41 @@
-## Hi there 👋
+# Joshua Urrea 
 
-<!--
-**jush-ua/jush-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Developer**  
+College undergraduate passionate about building and learning in the world of tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Interested in **Python**, **Dart/Flutter**, and **Web Development**  
+- Always learning: *"One line of code at a time."*  
+- Driven to create projects that teach me something new each time  
+
+---
+
+## Skills Snapshot
+- **Python** – scripting & backend basics  
+- **Dart/Flutter** – mobile app development foundations  
+- **HTML/CSS** – frontend design fundamentals  
+
+---
+
+## Projects I've Built
+- **E-Commerce Website**  
+  Basic order management system with user authentication  
+  *(Python, HTML, CSS)*  
+
+- **Mobile E-Commerce App**  
+  Flutter + Firebase app with product catalog, shopping cart & secure payments  
+
+---
+
+## Outside of Coding
+- 🎮 Gamer (RPGs & Strategy)  
+- ☕ Coffee enthusiast  
+- 🎵 Music lover – always discovering new genres  
+- 📚 Sci-Fi reader  
+
+---
+
+### Let's Connect
+[GitHub](#) • [LinkedIn](#) • [Facebook](#)
