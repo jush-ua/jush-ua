@@ -171,14 +171,20 @@ When I'm not writing code, I enjoy:
 
 I'm always interested in learning, collaborating, and exchanging ideas with other developers.
 
+<br><br>
+
 <a href="https://github.com/jush-ua">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/joshua-urrea-610389382/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
 <br><br>
 
-**Thanks for visiting!**
+**Thanks for visiting! 👋**
 
 *Always learning. Always building.*
 
 </div>
+
